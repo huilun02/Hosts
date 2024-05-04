@@ -26,7 +26,6 @@
 ||exchange.opera.com^
 ||googleadservices.com^
 ||crashlytics.com^
-||resilio.com^
 ||config.resilio.com^
 ||1-2000.b-2-7-3.sync.bench.resilio.com^
 ||bench.resilio.com^
