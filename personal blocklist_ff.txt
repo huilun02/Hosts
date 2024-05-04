@@ -242,3 +242,7 @@
 ||xqueue.de^
 ||yesware.com^
 ||ziffimages.com^
+||imrworldwide.com^
+||secure-dcr.imrworldwide.com^
+||secure-drm.imrworldwide.com^
+
